@@ -1,0 +1,44 @@
+[submodule "Tools/net-creds"]
+	path = Tools/net-creds
+	url = https://github.com/DanMcInerney/net-creds.git
+	branch = master
+[submodule "Tools/commix"]
+	path = Tools/commix
+	url = https://github.com/stasinopoulos/commix.git
+	branch = master
+[submodule "Tools/sqlmap"]
+	path = Tools/sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
+	branch = master
+[submodule "Tools/impacket"]
+	path = Tools/impacket
+	url = https://github.com/CoreSecurity/impacket.git
+	branch = master
+[submodule "Tools/nishang"]
+	path = Tools/nishang
+	url = https://github.com/samratashok/nishang.git
+	branch = master
+[submodule "Tools/Responder"]
+	path = Tools/Responder
+	url = https://github.com/SpiderLabs/Responder.git
+	branch = master
+[submodule "Tools/wifiphisher"]
+	path = Tools/wifiphisher
+	url = https://github.com/sophron/wifiphisher.git
+	branch = master
+[submodule "Tools/CMSmap"]
+	path = Tools/CMSmap
+	url = https://github.com/Dionach/CMSmap.git
+	branch = master
+[submodule "Tools/PowerSploit"]
+	path = Tools/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
+	branch = master
+[submodule "Tools/exploit-database"]
+	path = Tools/exploit-database
+	url = https://github.com/offensive-security/exploit-database.git
+	branch = master
+[submodule "warberry"]
+	path = warberry
+	url = https://github.com/secgroundzero/warberry
+	branch = master
